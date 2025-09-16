@@ -1,6 +1,5 @@
 
 """
-CV Video Recorder (OpenCV, VS Code friendly)
 - Preview/Record 모드 (Space 전환, ESC 종료)
 - 녹화 중 프리뷰 화면에 빨간 원(REC) 표시
 - VideoCapture(0 또는 인덱스/URL) + VideoWriter
@@ -200,3 +199,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
